@@ -1,0 +1,52 @@
+[
+    {
+        "title": "President",
+        "content": "First Content",
+        "user_id": 4
+    },
+    {
+        "title": "Who is next CM",
+        "content": "Second Content",
+        "user_id": 6
+    },
+    {
+        "title": "Best Python Book",
+        "content": "Third Content",
+        "user_id": 5
+    },
+    {
+        "title": "Best Pet",
+        "content": "Fourth Content",
+        "user_id": 2
+    },
+    {
+        "title": "Newyork",
+        "content": "Fifth Content",
+        "user_id": 3
+    },
+    {
+        "title": "Indian tourism",
+        "content": "Sixth Content",
+        "user_id": 4
+    },
+    {
+        "title": "Hola America",
+        "content": "Seventh Content",
+        "user_id": 4
+    },
+    {
+        "title": "Burj Khalifa",
+        "content": "Eighth Content",
+        "user_id": 1
+    },
+    {
+        "title": "Ghost stories",
+        "content": "Ninth Content",
+        "user_id": 2
+    },
+    {
+        "title": "Girlfriend required ?",
+        "content": "Tenth Content",
+        "user_id": 6
+    }
+]
